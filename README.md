@@ -3,10 +3,15 @@
 
 ## Overview
 This task required me to develop a program that could 
+
 Deliverables from this task included:
+
 -Number of unique IP adddresses.
+
 -Top 3 most visited URLS.
+
 -Top 3 most active IP addresses.
+
 -Including tests to demonstrate that the code is working.
 
 ## Tech Stack Used
