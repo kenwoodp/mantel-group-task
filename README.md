@@ -10,6 +10,6 @@ Deliverables from this task included:
 -Including tests to demonstrate that the code is working.
 
 ## Tech Stack Used
-I chose to complete the task using JavaScript, testing was done using the 3rd party testing library, Jest (https://jestjs.io/).
+I chose to complete the task using JavaScript, testing was done using the 3rd party testing library, [Jest](https://jestjs.io/).
 
 ### Enjoy!
