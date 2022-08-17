@@ -2,7 +2,7 @@
 ### Future Associates Program
 
 ## Overview
-This task required me to develop a program that could 
+This task required me to develop a program that could analyse a log file and report the data.
 
 Deliverables from this task included:
 
